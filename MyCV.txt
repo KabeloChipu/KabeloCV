@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <style>
+        table {
+            font-family: arial, sans-serif;
+            border-collapse: collapse;
+            width: 50%;
+        }
+
+        tr:nth-child(even) {
+            background-color: #dddddd;
+        }
+
+        td,
+        th {
+            border: 1px solid #dddddd;
+            text-align: left;
+            padding: 8px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <h2>CURRICULUM VITAE </h2>
+
+    <table>
+        <h2>PERSONAL DETAILS</h2>
+        <tr>
+            <td>NAME</td>
+            <td>KABELO DOREEN CHIPU</td>
+
+        </tr>
+        <tr>
+            <td>ID NUMBER</td>
+            <td>9308060213087</td>
+
+        </tr>
+        <tr>
+            <td>GENDER</td>
+            <td>FEMALE</td>
+
+        </tr>
+        <tr>
+            <td>DEMOGRAPHIC PROFILE</td>
+            <td>AFRICAN</td>
+
+        </tr>
+        <tr>
+            <td>LANGUAGES</td>
+            <td>SEPEDI, ENGLISH, ZULU, SESOTHO</td>
+
+        </tr>
+        <tr>
+            <td>CELL NO</td>
+            <td>078 928 3923</td>
+
+        </tr>
+        <tr>
+            <td>NATIONALITY</td>
+            <td>AFRICAM</td>
+
+        </tr>
+        <tr>
+            <td>STREET ADDRESS</td>
+            <td>332 PLAYFAIR STREET VANDERBIJLPARK</td>
+        </tr>
+    </table>
+
+    <h2>SUMMURY OF QUALIFICATION </h2>
+    <table>
+        <tr>
+            <td>YEAR MATRICULATED</td>
+            <td>2011</td>
+        </tr>
+        <tr>
+            <td>YEAR OBTAINED</td>
+            <td>2018</td>
+
+        </tr>
+        <tr>
+            <td>QUALIFICATION</td>
+            <td>NATIONAL DIPLOMA:INFORMATION TECHNOLOGY</td>
+        </tr>
+        <tr>
+            <td>INSTITUTE</td>
+            <td>VAAL UNIVERSITY OF TECHNOLOGY</td>
+        </tr>
+        <tr>
+            <td>YEAR EXPECTED</td>
+            <td>2019</td>
+        </tr>
+        <tr>
+            <td>QUALIFICATION</td>
+            <td>BACHELOR IN TECHNOLOGY(BTECH): INFORMATION TECHNOLOGY</td>
+        </tr>
+    </table>
+    <h2>SKILLS</h2>
+    <table>
+        <tr>
+            <th>PERSONAL SKILLS</th>
+            <th>TECHNICAL SKILLS</th>
+        </tr>
+        <tr>
+            <td>PROBLEM SOLVING</td>
+            <td>KNOWLEDGE OF ORACLE PL\SQL</td>
+        </tr>
+        <tr>
+            <td>EXCELLENT TIME MANAGEMNT</td>
+            <td>PLAN AND ANALYSIS BUSINESS REQUIREMENTS</td>
+        </tr>
+        <tr>
+            <td>TEAM PLAYER</td>
+            <td>ANALYSIS, DESIGN AND IMPLEMENTATION</td>
+        </tr>
+        <tr>
+            <td>ATTENTION TO DETAILS</td>
+            <td>MySql, C#, HTML, JavaScript</td>
+        </tr>
+    </table>
+    <h2>PROJECT DONE</h2>
+    <table>
+        <tr>
+            <td>PROJECT</td>
+            <td>WEB APPLICATION: LIBRARY MANAGEMNT SYSTEM</td>
+        </tr>
+        <tr>
+            <td>ROLE</td>
+            <td>SOFTWARE DEVELOPER</td>
+        </tr>
+        <tr>
+            <td>DURATION</td>
+            <td>6 MONTHS</td>
+        </tr>
+        <tr>
+            <td>RESPONSIBILITY</td>
+            <td>
+                <ul>
+                    <li>ANALYSIS</li>
+                    <li>SYSTEM DESIGN</li>
+                    <li>SYSTEM DEVELOPMENT</li>
+                    <li>DATABASE DEVELOPER</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td>TECHNOLOGY USED</td>
+            <td>
+                <ul>
+                    <li>Visual studios 2017 </li>
+                    <li>C#, MVC, <HTML>
+
+                        </HTML>
+                    </li>
+                    <li>SQL, JavaScript, CSS</li>
+                    <li>Bootstrap</li>
+                    <li>JQuery</li>
+                </ul>
+            </td>
+        </tr>
+    </table>
+    <h2>REFFERENCES</h2>
+    <table>
+        <tr>
+            <td>NAME</td>
+            <td> Dr Appiah Martin</td>
+        </tr>
+        <tr>
+            <td>CONTACT NO</td>
+            <td>+27 (0) 16 950 9899</td>
+        </tr>
+        <tr>
+            <td>Position</td>
+            <td>Lecturer</td>
+        </tr>
+        <tr>
+            <td>NAME</td>
+            <td> Mrs Van Eck Rene </td>
+        </tr>
+        <tr>
+            <td>CONTACT NO</td>
+            <td>+27 (0) 16 950 9899</td>
+        </tr>
+        <tr>
+            <td>Position</td>
+            <td>Snr Lecturer</td>
+        </tr>
+    </table>
+
+
+
+</body>
